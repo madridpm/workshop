@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Madrid Perl Workshop 2017</title>
+        <link>http://madridpm.github.io/workshop/blog/</link>
+        <atom:link href="http://madridpm.github.io/workshop/blog/index.rss" rel="self" type="application/rss+xml" />
+        <description>Blog feed of Madrid Perl Workshop 2017</description>
+        <generator>Statocles 0.083</generator>
+        <item>
+            <title>First Post</title>
+            <link>http://madridpm.github.io/workshop/blog/2017/02/09/first-post/</link>
+            <guid>http://madridpm.github.io/workshop/blog/2017/02/09/first-post/</guid>
+            <description><![CDATA[
+                <h1>Welcome To Your Blog</h1>
+
+<p>This is your first post. To edit this post, open up /blog/2017/02/09/first-post/index.markdown
+in your text editor.</p>
+
+<p><a href="http://preaction.me/statocles/pod/Statocles/Help/Content">Check the documentation for how to write Statocles
+content</a></p>
+
+
+
+            ]]></description>
+            <pubDate>
+                Thu, 09 Feb 2017 00:00:00 +0000
+            </pubDate>
+        </item>
+    </channel>
+</rss>
+
