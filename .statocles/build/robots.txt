@@ -1,4 +1,4 @@
-Sitemap: http://madridpm.github.io/workshop/sitemap.xml
+Sitemap: http://madrid.pm.org/workshop/sitemap.xml
 User-Agent: *
 Disallow:
 

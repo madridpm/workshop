@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://madridpm.github.io/workshop/blog/</id>
+    <id>http://madrid.pm.org/workshop/blog/</id>
     <title>Madrid Perl Workshop 2017</title>
     <updated>2017-02-09T00:00:00Z</updated>
-    <link href="http://madridpm.github.io/workshop/blog/index.atom" rel="self" />
-    <link href="http://madridpm.github.io/workshop/blog/" rel="alternate" />
+    <link href="http://madrid.pm.org/workshop/blog/index.atom" rel="self" />
+    <link href="http://madrid.pm.org/workshop/blog/" rel="alternate" />
     <generator version="0.083">Statocles</generator>
 
     <entry>
-        <id>http://madridpm.github.io/workshop/blog/2017/02/09/first-post/</id>
+        <id>http://madrid.pm.org/workshop/blog/2017/02/09/first-post/</id>
         <title>First Post</title>
-        <link href="http://madridpm.github.io/workshop/blog/2017/02/09/first-post/" rel="alternate" />
+        <link href="http://madrid.pm.org/workshop/blog/2017/02/09/first-post/" rel="alternate" />
         <content type="html"><![CDATA[
             <h1>Welcome To Your Blog</h1>
 
