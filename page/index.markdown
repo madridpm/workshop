@@ -4,8 +4,9 @@ title: Página principal
 
 # Madrid Perl Workshop 2017
 
-* Madrid
 * Sábado 27 de Mayo 2017, 10:00 - 20:00
+* Meteológica - [calle Costa Brava, 10](https://www.google.es/maps/place/Meteologica+S.A.,+Calle+de+la+Costa+Brava,+10,+28034+Madrid/@40.4979653,-3.7064253,17z/data=!4m2!3m1!1s0xd422912e8541bb9:0x8abc392053097d7c)
+* Madrid
 
 ### ¿Qué es?
 
@@ -16,7 +17,7 @@ El grupo de usuarios del [lenguaje de programación Perl](http://perl.org) de Ma
 * Aprender muchas cosas nuevas.
 * ¡Hacer amigos! ¡Cambiar de empleo!
 
-La conferencia abarcará temas diversos: desarrollo, operaciones, comunidad... _[añadir]_
+La conferencia abarcará temas diversos: desarrollo, operaciones, comunidad...
 
 
 ### ¡Perl! ¿Perl?
@@ -42,3 +43,4 @@ pondremos en contacto contigo para comentarla.
 
 Esta jornada no sería posible sin la inestimable ayuda de nuestros patrocinadores.
 
+* [Meteologica](http://meteologica.com)
