@@ -1,0 +1,69 @@
+@font-face {
+  font-family: 'Open Sans Light';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans Light'), local('Open Sans Light'), url(/static/fonts/OpenSans-Light.ttf) format('TrueType');
+}
+
+.center-image {
+  margin: 0 auto;  
+  width: 100%;
+}
+
+.footer {
+  background-color: rgb(245, 245, 245);  
+  height: 100px;
+  text-align: center;
+  padding-top: 35px;
+}
+
+ul.play-right {
+    display: block;
+    margin-bottom: 20px;
+}
+
+ul.play-right > li {
+    display: block;
+    margin-bottom: 10px;
+}
+
+ul.play-right > li:before {
+    content: "\e072";
+    font-family: 'Glyphicons Halflings';
+    font-size: 10px;
+    float: left;
+    margin-top: 4px;
+    margin-left: -17px;
+    color: #222;
+}
+
+.opensans {
+    font-family:'Open Sans Light','Consolas';
+}
+
+h2 {
+    font-family:'Open Sans Light','Consolas';
+    font-size: 40px;
+    margin-top: 40px; 
+    margin-bottom: 20px; 
+}
+
+p {
+    font-family:'Open Sans Light','Consolas';
+    font-size: 16px;
+}
+
+li {
+    font-family:'Open Sans Light','Consolas';
+    font-size: 16px;    
+}
+
+a {
+  font-family:'Open Sans Light','Consolas';
+  font-size: 16px;
+}
+
+a:hover {
+    
+    text-decoration: none;
+}
