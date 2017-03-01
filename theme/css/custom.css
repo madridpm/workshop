@@ -2,7 +2,7 @@
   font-family: 'Open Sans Light';
   font-style: normal;
   font-weight: 400;
-  src: local('Open Sans Light'), local('Open Sans Light'), url(/static/fonts/OpenSans-Light.ttf) format('TrueType');
+  src: local('Open Sans Light'), local('Open Sans Light'), url(/workshop/static/fonts/OpenSans-Light.ttf) format('TrueType');
 }
 
 .center-image {
