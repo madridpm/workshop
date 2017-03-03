@@ -2,14 +2,17 @@
 title: Página principal
 data:
     header:
-        src: /static/header.png
+        src: /static/header.jpg
 ---
-<p></p>
-<ul class="play-right">
-<li><span class="glyphicon glyphicon-calendar"></span>Sábado 27 de Mayo 2017</li>
-<li><span class="glyphicon glyphicon-time"></span>10:00 - 20:00</li>
-<li><span class="glyphicon glyphicon-hand-right"></span>Meteológica - <a href="https://www.google.es/maps/place/Meteologica+S.A.,+Calle+de+la+Costa+Brava,+10,+28034+Madrid/@40.4979653,-3.7064253,17z/data=!4m2!3m1!1s0xd422912e8541bb9:0x8abc392053097d7c">calle Costa Brava, 10 - Madrid</a></li>
+<ul class="play-right" id="event_details">
+<li><span class="glyphicon glyphicon-calendar"></span>&nbsp;Sábado 27 de Mayo 2017</li>
+<li><span class="glyphicon glyphicon-time"></span>&nbsp;10:00 - 20:00</li>
+<li><span class="glyphicon glyphicon-hand-right"></span>&nbsp;Meteológica - <a href="https://www.google.es/maps/place/Meteologica+S.A.,+Calle+de+la+Costa+Brava,+10,+28034+Madrid/@40.4979653,-3.7064253,17z/data=!4m2!3m1!1s0xd422912e8541bb9:0x8abc392053097d7c">calle Costa Brava, 10 - Madrid</a></li>
 </ul>
+
+## Patrocina
+
+* [Meteologica](http://meteologica.com)
 
 ## ¿Qué es?
 
@@ -44,12 +47,11 @@ charla: título, una pequeña sinopsis, audiencia a la que estaría dirigida,
 duración estimada y cualquier otro aspecto que consideres relevante. Nos
 pondremos en contacto contigo para comentarla.
 
+La conferencia constará de 1 único _track_ con charlas de 20 o 50 minutos.
+
+Las charlas se darán en castellano, pero si deseas hacer tu presentación en otro idioma, no hay problema.
+
 <p class="well opensans">
 <a href="mailto:madrid.perl.workshop@gmail.com">Envíanos tu propuesta</a>.
 </p>
 
-## Patrocinadores
-
-Esta jornada no sería posible sin la inestimable ayuda de nuestros patrocinadores.
-
-* [Meteologica](http://meteologica.com)
