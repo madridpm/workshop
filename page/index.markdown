@@ -36,9 +36,7 @@ Hablaremos de Perl, pero no exclusivamente. Escuchamos propuestas de charlas que
 
 La inscripción a la conferencia es gratuita pero las plazas son limitadas. **¡No lo dejes para el último día!**
 
-<p class="well opensans">
-Reserva tu plaza en <a href="https://www.eventbrite.es/e/entradas-madrid-perl-workshop-2017-31565571474">EventBrite</a>.
-</p>
+<div style="width:100%; text-align:left;"><iframe src="//eventbrite.es/tickets-external?eid=31565571474&ref=etckt" frameborder="0" height="275" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.es/">Con tecnología de Eventbrite</a></div></div>
 
 ## Me gustaría dar una charla
 
