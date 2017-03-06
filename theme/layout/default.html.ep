@@ -83,7 +83,8 @@
             %= include 'site/footer.html.ep'
             <div class="container tagline">
                 <a href="http://preaction.me/statocles">Made with Statocles</a><br/>
-                <a href="http://www.perl.org">Powered by Perl</a>
+                <a href="http://www.perl.org">Powered by Perl</a><br/>
+                <a href="https://www.flickr.com/photos/juanmontero/5376320082">Madrid Skyline at Moonrise © Juan Montero. Todos los derechos reservados</a>
             </div>
         </footer>
 

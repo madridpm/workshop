@@ -84,10 +84,15 @@ footer {
     margin-top: 1em;
     padding-bottom: 0.5em;
     font-size: 0.7em;
+    background-color: gray;
 }
 
 footer .tagline {
-    font-size: smaller;
     line-height: 1.3;
     text-align: right;
+}
+
+.tagline a{
+    color: white;
+    font-size: 11px;
 }
