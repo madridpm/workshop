@@ -50,6 +50,6 @@ La conferencia constará de 1 único _track_ con charlas de 20 o 50 minutos.
 Las charlas se darán en castellano, pero si deseas hacer tu presentación en otro idioma, no hay problema.
 
 <p class="well opensans">
-<a href="mailto:madrid.perl.workshop@gmail.com">Envíanos tu propuesta</a>.
+<a href="https://goo.gl/forms/RZ5Z9mP2yibfDVBl2" target="_blank">Envíanos tu propuesta</a>.
 </p>
 
