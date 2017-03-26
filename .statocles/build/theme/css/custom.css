@@ -47,6 +47,13 @@ ul.play-right > li:before {
     font-family:'Open Sans Regular','Consolas';
 }
 
+h1 {
+    font-family:'Open Sans Regular','Consolas';
+    font-size: 44px;
+    margin-top: 40px; 
+    margin-bottom: 20px; 
+}
+
 h2 {
     font-family:'Open Sans Light','Consolas';
     font-size: 40px;
