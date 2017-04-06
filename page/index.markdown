@@ -10,9 +10,10 @@ data:
 <li><span class="glyphicon glyphicon-hand-right"></span>&nbsp;Meteológica - <a href="https://www.google.es/maps/place/Meteologica+S.A.,+Calle+de+la+Costa+Brava,+10,+28034+Madrid/@40.4979653,-3.7064253,17z/data=!4m2!3m1!1s0xd422912e8541bb9:0x8abc392053097d7c">calle Costa Brava, 10 - Madrid</a></li>
 </ul>
 
-## Patrocina
+## Patrocinan
 
 * [Meteologica](http://meteologica.com)
+* [Nubeprint](http://www.nubeprint.com)
 
 ## ¿Qué es?
 
