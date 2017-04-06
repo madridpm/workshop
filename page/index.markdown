@@ -33,7 +33,7 @@ La conferencia abarcará temas diversos: desarrollo, operaciones, comunidad...
 Hablaremos de Perl, pero no exclusivamente. Escuchamos propuestas de charlas que puedan encajar dentro de la conferencia, aunque la tecnología usada no sea Perl.
 
 ## Código de conducta
-Los participantes en la conferencia nos atendremos al siguiente [Código de Conducta](/page/code-of-conduct.html).
+Los participantes en la conferencia nos atendremos al siguiente [Código de conducta](/page/code-of-conduct.html).
 
 
 ## Inscribirme
