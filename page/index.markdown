@@ -13,7 +13,7 @@ data:
 ## Patrocinan
 
 <a href="http://meteologica.com" alt="Meteologica"><img src="/static/meteologica.png" /></a>
-<a href="http://www.nubeprint.com" alt="Nubeprint"><img src="/static/nubeprint_logo.png" /></a>
+<a href="http://www.nubeprint.com" alt="Nubeprint"><img src="/static/nubeprint2.gif" height="80"/></a>
 
 ## ¿Qué es?
 
