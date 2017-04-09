@@ -109,3 +109,7 @@ footer .tagline {
     color: white;
     font-size: 11px;
 }
+
+a.sponsor {
+    margin-right: 35px;
+}
