@@ -1,5 +1,4 @@
 ---
-title: Página principal
 data:
     header:
         src: /static/header.jpg
