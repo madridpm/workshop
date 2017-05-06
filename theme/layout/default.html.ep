@@ -81,7 +81,7 @@
                     </main>
                 </div>
 
-                <div class="three columns sidebar">
+                <div class="col-lg-4 ">
                     %= include 'site/sidebar_before.html.ep';
                     %= content 'tags';
                     %= content 'feeds';
