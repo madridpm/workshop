@@ -4,7 +4,7 @@
         <loc>http://madrid.pm.org/workshop/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-05-06</lastmod>
+        <lastmod>2017-05-13</lastmod>
     </url>
     <url>
         <loc>http://madrid.pm.org/workshop/blog/</loc>
@@ -22,13 +22,13 @@
         <loc>http://madrid.pm.org/workshop/page/code-of-conduct.html</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-05-06</lastmod>
+        <lastmod>2017-05-13</lastmod>
     </url>
     <url>
         <loc>http://madrid.pm.org/workshop/page/schedule.html</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-05-06</lastmod>
+        <lastmod>2017-05-13</lastmod>
     </url>
 </urlset>
 
