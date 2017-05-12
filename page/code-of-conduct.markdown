@@ -1,8 +1,5 @@
 ---
 title: Código de conducta
-data:
-    header:
-        src: /static/header.jpg
 ---
 # Código de conducta
 
