@@ -85,10 +85,10 @@ a:hover {
     position: absolute;
     bottom: 0%;
     left: 50%;
-    -webkit-transform: translate(-50%, 70%);
-    -moz-transform: translate(-50%, 70%);
-    -o-transform: translate(-50%, 70%);
-    transform: translate(-50%, 70%);
+    -webkit-transform: translate(-50%, -10%);
+    -moz-transform: translate(-50%, -10%);
+    -o-transform: translate(-50%, -10%);
+    transform: translate(-50%, -10%);
     display: block;
     height: auto;
     background: white;
@@ -103,9 +103,11 @@ a:hover {
     position: relative;
 }
 
+/*
 .container {
     padding-top: 7rem;
 }
+*/
 
 /** Footer */
 footer {
@@ -132,3 +134,6 @@ a.sponsor {
 .twitter-timeline {
     float: right; 
 }
+
+/** navbar */
+

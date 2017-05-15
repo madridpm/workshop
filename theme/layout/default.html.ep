@@ -42,36 +42,19 @@
         <!-- twitter card -->
         <meta name="twitter:card" value="summary" />
         <meta name="twitter:site" value="@PerlMadrid" />
+        % if (my $tw = $self->data->{twitter}) {
+        <meta name='twitter:title' value='Madrid Perl Workshop 2017 <%= $tw->{title} ? '- ' . $tw->{title} : ''  %>' />
+        <meta name="twitter:description" value="<%= $tw->{description} %>" />
+        <meta name="twitter:image" value="<%= $tw->{image} // 'http://madrid.pm.org/workshop/static/twcardbg.png' %>" />
+        %} else {
         <meta name="twitter:title" value="Madrid Perl Workshop 2017" />
         <meta name="twitter:description" value="Una conferencia sobre Perl y tecnologías relacionadas. 3 de junio, de 10 a 19 h. Entrada gratuita." />
         <meta name="twitter:image" value="http://madrid.pm.org/workshop/static/twcardbg.png" />
+        %}
         <!-- /twitter card -->
 
     </head>
     <body>
-        <!--
-        <header>
-            <nav class="navbar">
-                <div class="container">
-                    <a class="brand" href="/"><%= $site->title %></a>
-                    % if ( my @nav_links = $site->nav( 'main' ) ) {
-                    <ul>
-                        % for my $nav ( @nav_links ) {
-                        <li>
-                            <a href="<%= $nav->href %>"><%= $nav->text %></a>
-                        </li>
-                        % }
-                    </ul>
-                    % }
-                    %= include 'site/navbar_extra.html.ep'
-                </div>
-            </nav>
-            %= include 'site/header_after.html.ep'
-        </header>
-        -->
-        % if ( my $img = $self->data->{header} ) {
-        <img src="<%= $img->{src} %>" class="img-responsive center-image"/>
-        % }
 
 <div class="header">
 <ul class="play-right" id="event_details">
@@ -81,6 +64,32 @@
 </ul>
         <img class="img-responsive center-image" src="/static/header.jpg">  
 </div>
+
+
+
+    <header>
+        <nav class="navbar navbar-default">
+            <div class="row">
+                <div class="col-lg-8">
+                    <!--<a class="brand" href="/"><%= $site->title %></a>-->
+                    % if ( my @nav_links = $site->nav( 'main' ) ) {
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a href="/">Inicio</a>
+                        </li>
+                        % for my $nav ( @nav_links ) {
+                        <li>
+                            <a href="<%= $nav->href %>"><%= $nav->text %></a>
+                        </li>
+                        % }
+                    </ul>
+                    % }
+                    %= include 'site/navbar_extra.html.ep'
+                </div>
+            </div>
+        </nav>
+        %= include 'site/header_after.html.ep'
+    </header>
 
 
         <div class="container">

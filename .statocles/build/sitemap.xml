@@ -4,7 +4,7 @@
         <loc>http://madrid.pm.org/workshop/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-05-13</lastmod>
+        <lastmod>2017-05-15</lastmod>
     </url>
     <url>
         <loc>http://madrid.pm.org/workshop/blog/</loc>
@@ -22,13 +22,73 @@
         <loc>http://madrid.pm.org/workshop/page/code-of-conduct.html</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-05-13</lastmod>
+        <lastmod>2017-05-15</lastmod>
     </url>
     <url>
         <loc>http://madrid.pm.org/workshop/page/schedule.html</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-05-13</lastmod>
+        <lastmod>2017-05-15</lastmod>
+    </url>
+    <url>
+        <loc>http://madrid.pm.org/workshop/page/talks.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2017-05-15</lastmod>
+    </url>
+    <url>
+        <loc>http://madrid.pm.org/workshop/page/talks/deploy-perl.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2017-05-15</lastmod>
+    </url>
+    <url>
+        <loc>http://madrid.pm.org/workshop/page/talks/kritika-io.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2017-05-15</lastmod>
+    </url>
+    <url>
+        <loc>http://madrid.pm.org/workshop/page/talks/luser-toolbox.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2017-05-15</lastmod>
+    </url>
+    <url>
+        <loc>http://madrid.pm.org/workshop/page/talks/modern-perl-toolchain.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2017-05-15</lastmod>
+    </url>
+    <url>
+        <loc>http://madrid.pm.org/workshop/page/talks/perl-ml.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2017-05-15</lastmod>
+    </url>
+    <url>
+        <loc>http://madrid.pm.org/workshop/page/talks/perl6-nativecall.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2017-05-15</lastmod>
+    </url>
+    <url>
+        <loc>http://madrid.pm.org/workshop/page/talks/resque.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2017-05-15</lastmod>
+    </url>
+    <url>
+        <loc>http://madrid.pm.org/workshop/page/talks/taas.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2017-05-15</lastmod>
+    </url>
+    <url>
+        <loc>http://madrid.pm.org/workshop/page/talks/web-perl6.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2017-05-15</lastmod>
     </url>
 </urlset>
 
