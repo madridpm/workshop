@@ -70,10 +70,10 @@
     <header>
         <nav class="navbar navbar-default">
             <div class="row">
-                <div class="col-lg-8">
+                <div class="col-lg-8" style="margin: 0 auto; float: none">
                     <!--<a class="brand" href="/"><%= $site->title %></a>-->
                     % if ( my @nav_links = $site->nav( 'main' ) ) {
-                    <ul class="nav navbar-nav navbar-right">
+                    <ul class="nav navbar-nav">
                         <li>
                             <a href="/">Inicio</a>
                         </li>
