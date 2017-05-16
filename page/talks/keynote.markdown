@@ -12,4 +12,4 @@ data:
 Salvador Fandiño
 
 ### Resumen
-Salvador Fandiño ([SALVA](https://metacpan.org/author/SALVA)) abrirá las charlas de la jornada con una presentación cuyo contenido es todavía un misterio para todos :-)
+Salvador Fandiño ([SALVA](https://metacpan.org/author/SALVA)) abrirá las charlas de la jornada con una presentación cuya temática es todavía un misterio para todos :-)
