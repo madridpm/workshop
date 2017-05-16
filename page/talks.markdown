@@ -6,6 +6,7 @@ title: Presentaciones
 Estas son las charlas aceptadas hasta el momento.
 Próximamente actualizaremos esta página con el horario completo.
 
+* [Charla inaugural de Salvador Fandiño](/page/talks/keynote.html)
 * [Resque to the resque!](/page/talks/resque.html)
 * [Un servidor web con Perl 6](/page/talks/web-perl6.html)
 * [Luser hacking toolbox](/page/talks/luser-toolbox.html)
@@ -15,4 +16,5 @@ Próximamente actualizaremos esta página con el horario completo.
 * [TaaS: Talk as a Service](/page/talks/taas.html)
 * [Modern Perl toolchain](/page/talks/modern-perl-toolchain.html)
 * [NativeCall en Perl 6](/page/talks/perl6-nativecall.html)
+* [Lightning talks](/page/talks/lightning.html)
 
