@@ -1,12 +1,12 @@
 ---
-title: Charla inaugural
+title: Las pequeñas cosas
 data:
     twitter:
-        title: Charla inaugural (Salvador Fandiño)
+        title: Las pequeñas cosas (Salvador Fandiño)
         description: Salva hará la presentación inaugural del Madrid Perl Workshop 2017.
 ---
 
-# Charla inaugural
+# Las pequeñas cosas
 
 ### Autor
 Salvador Fandiño

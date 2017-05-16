@@ -79,7 +79,7 @@
                         </li>
                         % for my $nav ( @nav_links ) {
                         <li>
-                            <a href="<%= $nav->href %>"><%= $nav->text %></a>
+                            <a href="<%= $nav->href %>#top"><%= $nav->text %></a>
                         </li>
                         % }
                     </ul>
@@ -96,6 +96,7 @@
             <div class="row">
                 <div class="col-lg-8">
                     <main>
+                        <a id="top"></a>
                         <%= content %>
                     </main>
                 </div>
