@@ -6,7 +6,7 @@ data:
         description: Al final de la jornada tendremos una sesión de charlas cortas, de 5 minutos o menos.
 ---
 
-# Charla inaugural
+# Lightning talks
 
 ### Autor
 Varios autores
