@@ -22,6 +22,10 @@ La conferencia abarcará temas diversos: desarrollo, operaciones, comunidad...
 ## ¡Perl! ¿Perl?
 Hablaremos de Perl, pero no exclusivamente. Escuchamos propuestas de charlas que puedan encajar dentro de la conferencia, aunque la tecnología usada no sea Perl.
 
+## Presentaciones
+
+Puedes consultar la [lista completa de presentaciones admitidas](/page/talks.html), y próximamente el horario definitivo.
+
 ## Código de conducta
 Los participantes en la conferencia nos atendremos al siguiente [Código de conducta](/page/code-of-conduct.html).
 
@@ -34,19 +38,4 @@ EL plazo de inscripción ha terminado, pero no todo está perdido. Si a pesar de
 todo deseas asistir, envíanos un e-mail (la dirección está en el lateral de la
 página) y nos pondremos en contacto contigo. Pero eso sí, no podremos
 garantizar que nos quede una camiseta para ti.
-
-## Me gustaría dar una charla
-
-Si deseas exponer, envíanos un mensaje describiendo brevemente la
-charla: título, una pequeña sinopsis, audiencia a la que estaría dirigida,
-duración estimada y cualquier otro aspecto que consideres relevante. Nos
-pondremos en contacto contigo para comentarla.
-
-La conferencia constará de 1 único _track_ con charlas de 20 o 50 minutos.
-
-Las charlas se darán en castellano, pero si deseas hacer tu presentación en otro idioma, no hay problema.
-
-<p class="well opensans">
-<a href="https://goo.gl/forms/RZ5Z9mP2yibfDVBl2" target="_blank">Envíanos tu propuesta</a>.
-</p>
 
