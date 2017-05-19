@@ -28,9 +28,12 @@ Los participantes en la conferencia nos atendremos al siguiente [Código de cond
 
 ## Inscribirme
 
-La inscripción a la conferencia es gratuita pero las plazas son limitadas. **¡No lo dejes para el último día!**
+**¡Entradas agotadas!**
 
-<div style="width:100%; text-align:left;"><iframe src="//eventbrite.es/tickets-external?eid=31565571474&ref=etckt" frameborder="0" height="275" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.es/">Con tecnología de Eventbrite</a></div></div>
+EL plazo de inscripción ha terminado, pero no todo está perdido. Si a pesar de
+todo deseas asistir, envíanos un e-mail (la dirección está en el lateral de la
+página) y nos pondremos en contacto contigo. Pero eso sí, no podremos
+garantizar que nos quede una camiseta para ti.
 
 ## Me gustaría dar una charla
 
