@@ -5,9 +5,9 @@ data:
         title: Programa
         description: ¡10 charlas 10, sin contar las lightning!
 ---
-# Presentaciones y horario
+# Horario de las presentaciones
 
-Este es el horario definitivo de la jornada.
+Este es el horario definitivo de la jornada:
 
 * 09:30 - 10:00 Registro
 * 10:00 - 11:00 [Keynote: Las pequeñas cosas](/page/talks/keynote.html#top)
