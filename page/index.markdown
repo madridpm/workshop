@@ -34,7 +34,7 @@ Los participantes en la conferencia nos atendremos al siguiente [Código de cond
 
 **¡Entradas agotadas!**
 
-EL plazo de inscripción ha terminado, pero no todo está perdido. Si a pesar de
+El plazo de inscripción ha terminado, pero no todo está perdido. Si a pesar de
 todo deseas asistir, envíanos un e-mail (la dirección está en el lateral de la
 página) y nos pondremos en contacto contigo. Pero eso sí, no podremos
 garantizar que nos quede una camiseta para ti.
