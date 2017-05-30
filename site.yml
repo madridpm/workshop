@@ -85,7 +85,7 @@ site:
         # "text", the text of the link, and "href", the URL to link to.
         nav:
             main:
-                - text: 'Presentaciones'
+                - text: 'Programa'
                   href: '/page/talks.html'
 
                 - text: 'Código de conducta'
