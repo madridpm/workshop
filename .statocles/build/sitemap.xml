@@ -31,6 +31,12 @@
         <lastmod>2017-05-31</lastmod>
     </url>
     <url>
+        <loc>http://madrid.pm.org/workshop/page/statics.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2017-05-31</lastmod>
+    </url>
+    <url>
         <loc>http://madrid.pm.org/workshop/page/talks.html</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
