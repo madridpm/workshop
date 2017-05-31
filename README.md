@@ -11,10 +11,3 @@
 * Instalar Statocles desde cpan.
 * Ejecutar 'statocles build' para generar contenido.
 * Ejecutar 'statocles daemon' para probar la web.
-
-
-
-### Dudas, ruegos, preguntas ###
-
-* Repo administrado por @satanpenguin
-* Slack del proyecto: https://madridpm.slack.com/messages/_sitioweb/
